@@ -1,5 +1,5 @@
 // dragonSlay.js
-// (C) 2014 splashinn
+// splashinn
 
 var slay = true;
 var youHit = Math.floor(Math.random() * 2);
